@@ -24,7 +24,7 @@ p {
 
 .qr-code-text {
     text-align: center;
-    margin: 0 0 15px;
+    margin: 0 10px 15px;
 }
 
 .qr-code-text p {
@@ -36,24 +36,21 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
     height: 900px;
 }
 
 .qr-code-container {
     display: flex;
     flex-direction: column;
-    width: 250px;
+    width: 270px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
-    justify-content: center;
-    align-items: center;
     padding: 15px;
     box-shadow: 0 10px 15px hsl(231, 11%, 75%);
 }
 
 .qr-code-img {
     width: 100%;
-    border-radius: 15px;
+    border-radius: 10px;
     margin: 0 0 10px;
 }
