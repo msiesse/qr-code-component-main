@@ -13,22 +13,19 @@ body {
 }
 
 h1 {
-    font-size: 20px;
-    font-weight: 700;
+    font-size: 21px;
 }
 
 p {
     font-size: 15px;
-    font-weight: 400;
 }
 
 .qr-code-text {
     text-align: center;
-    margin: 0 10px 15px;
+    margin: 0 10px 10px;
 }
 
 .qr-code-text p {
-    text-align: center;
     color: hsl(220, 15%, 55%);
 }
 
